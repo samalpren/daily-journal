@@ -8,3 +8,7 @@ fieldset {
     flex-direction: column;
     max-width: 500px;
 }
+
+textarea.journalEntry {
+    text-align: left;
+}
